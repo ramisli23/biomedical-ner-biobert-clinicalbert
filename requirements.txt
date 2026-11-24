@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+evaluate
+accelerate
+seqeval
+pytorch-crf
+huggingface_hub
+pandas
+numpy
+matplotlib
+seaborn
+pyarrow
+jupyter

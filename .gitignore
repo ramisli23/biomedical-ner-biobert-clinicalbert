@@ -1,0 +1,20 @@
+# model checkpoints
+biobert-ner/
+clinbert-ner/
+*.pt
+*.bin
+*.safetensors
+
+# dataset clone / cache
+bc5cdr/
+.cache/
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
